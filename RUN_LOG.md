@@ -6,3 +6,4 @@
 - 2026-09-15：Node 单元测试 8/8、仓库检查、两个 Skill 结构验证通过。
 - 2026-09-15：完成两篇小红书正文草稿；为避免提前公开，`content/` 已加入 `.gitignore`。
 - 2026-09-15：GitHub API 确认当前规范用户名为 `epanodos`；CLI 状态仍显示旧用户名。
+- 2026-09-15：提交 `797d63a` 并创建公共仓库 `epanodos/xiaohongshu-ai-organizer`；验证 visibility=PUBLIC、default branch=main、本地与远端提交一致。

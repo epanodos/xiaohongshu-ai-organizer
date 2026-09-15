@@ -7,6 +7,7 @@
 - Tests: 8 passed, 0 failed.
 - Repository check: passed, 13 required files.
 - Project health check: healthy, 0 findings.
+- Old copy: moved to the Windows Recycle Bin after verification; recoverable.
 
 ## Continuation
 

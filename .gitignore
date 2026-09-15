@@ -1,0 +1,13 @@
+node_modules/
+.xhs-organizer/
+*.har
+*.log
+*.sqlite
+cookies*.json
+auth-state*.json
+screenshots/private/
+/content/
+/visuals/
+.env
+.env.*
+!.env.example

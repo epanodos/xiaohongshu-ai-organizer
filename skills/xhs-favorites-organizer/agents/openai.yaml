@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书收藏整理"
+  short_description: "按保留收藏夹生成保护集并安全整理收藏"
+  default_prompt: "Use $xhs-favorites-organizer to inventory my Xiaohongshu favorites and albums and show an organization preview without changing anything yet."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书已发布清理"
+  short_description: "先盘点和预览，再安全清理本人已发布笔记"
+  default_prompt: "Use $xhs-published-cleanup to inventory my published Xiaohongshu notes and show a deletion preview without deleting anything yet."

@@ -2,6 +2,8 @@
 
 本项目把文件系统视为事实来源。开始工作前依次读取 `PROJECT.md`、`ROADMAP.md`、`STATE.md`、`TASKS.md`、`REVIEW.md` 和 `RUN_LOG.md`。
 
+如果根目录存在 `LOCAL_WORKSPACE.md`，先读取它确认本机唯一工作路径。该文件只供本机使用，不提交公开仓库。
+
 ## 权限与安全
 
 - 只操作用户本人明确授权的小红书账号。

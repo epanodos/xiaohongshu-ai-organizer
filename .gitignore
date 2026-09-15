@@ -8,6 +8,7 @@ auth-state*.json
 screenshots/private/
 /content/
 /visuals/
+/LOCAL_WORKSPACE.md
 .env
 .env.*
 !.env.example

@@ -7,3 +7,4 @@
 - 2026-09-15：完成两篇小红书正文草稿；为避免提前公开，`content/` 已加入 `.gitignore`。
 - 2026-09-15：GitHub API 确认当前规范用户名为 `epanodos`；CLI 状态仍显示旧用户名。
 - 2026-09-15：提交 `797d63a` 并创建公共仓库 `epanodos/xiaohongshu-ai-organizer`；验证 visibility=PUBLIC、default branch=main、本地与远端提交一致。
+- 2026-09-15：把项目迁移到用户指定的长期工作目录；39 个非 Git 文件 SHA-256 全部一致，Git 完整性、8/8 测试、仓库检查和项目健康检查通过。

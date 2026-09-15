@@ -28,6 +28,7 @@ updated_at: "2026-09-15"
 - 两篇小红书正文草稿已完成；`content/` 不会提交到公开仓库。
 - GitHub 公共仓库已创建：`https://github.com/epanodos/xiaohongshu-ai-organizer`。
 - 远端 `main` 与本地初始发布提交 `797d63ae86ca04028782deb81cd24cea53ef516c` 一致。
+- 项目已迁移到用户指定的本地长期工作目录；39 个项目文件逐项哈希一致，Git、测试和健康检查均通过。
 
 ## 阻碍
 
@@ -44,6 +45,7 @@ updated_at: "2026-09-15"
 
 - `checkpoints/MS-001-verification.md`
 - `checkpoints/MS-002-publication.md`
+- `checkpoints/2026-09-15-workspace-migration.md`
 
 ## 恢复入口
 
